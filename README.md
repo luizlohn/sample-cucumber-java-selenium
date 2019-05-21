@@ -9,12 +9,12 @@ This project works with
 
 ### Installation on Windows
 
-For run you need to configure Java and Maven
+To run you need to configure Java and Maven
 
 | Plugin | Link |
 | ------ | ------ |
-| JAVA | [https://confluence.atlassian.com/doc/setting-the-java_home-variable-in-windows-8895.html][PlDb] |
-| MAVEN | [https://www.mkyong.com/maven/how-to-install-maven-in-windows/][PlGh] |
+| JAVA | [https://confluence.atlassian.com/doc/setting-the-java_home-variable-in-windows-8895.html] |
+| MAVEN | [https://www.mkyong.com/maven/how-to-install-maven-in-windows/] |
 
 ### Running
 
