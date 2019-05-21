@@ -1,5 +1,29 @@
-## To RUn
+# Sample Project running in JAVA with Selenium and Cucumber
 
-Open CMD and execute
+This project works with
 
-    mvn test
+  - Java
+  - Selenium
+  - Cucumber
+  - Assert
+
+### Installation on Windows
+
+For run you need to configure Java and Maven
+
+| Plugin | Link |
+| ------ | ------ |
+| JAVA | [https://confluence.atlassian.com/doc/setting-the-java_home-variable-in-windows-8895.html][PlDb] |
+| MAVEN | [https://www.mkyong.com/maven/how-to-install-maven-in-windows/][PlGh] |
+
+### Running
+
+Open CMD:
+```sh
+$ mvn test
+```
+
+### PlayList listened to do this project:
+[Deezer #HITOU](https://www.deezer.com/playlist/1592591647?utm_source=deezer&utm_content=playlist-1592591647&utm_term=1624798546_1543511458&utm_medium=web)
+
+Copyright Luiz Lohn
